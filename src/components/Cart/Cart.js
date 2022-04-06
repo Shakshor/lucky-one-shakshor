@@ -1,10 +1,15 @@
 import React from 'react';
 
 const Cart = ({ cart }) => {
-    console.log(cart);
+    let name = '';
+    for (const product of cart) {
+        console.log(product);
+        name = product.name;
+    }
     return (
         <div>
-            <h4>selected amount: {cart.length}</h4>
+            <h4>Selected Product</h4>
+            <p><strong>Name: {name}</strong></p>
         </div>
     );
 };
