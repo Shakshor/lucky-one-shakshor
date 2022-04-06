@@ -1,56 +1,56 @@
 [
   {
     "id": "624d0a8537ade97ac811df29",
-    "name": "Faye Bridges",
+    "name": "Apple EarPods",
     "img": "../src/images/AppleEarPods.webp",
     "price": 1000
   },
   {
     "id": "624d0a85926406cfcf57e5c3",
-    "name": "Britt Beach",
+    "name": "Audio Technica",
     "img": "../src/images/AudioTechnica.webp",
     "price": 2300
   },
   {
     "id": "624d0a857ef440f4788e365c",
-    "name": "Ursula Fulton",
+    "name": "Green Gummy",
     "img": "../src/images/GreenGummy.webp",
     "price": 720
   },
   {
     "id": "624d0a85d363b81d756b8cd5",
-    "name": "Angie Levy",
+    "name": "Koss KPH7",
     "img": "../src/images/KossKPH7.webp",
     "price": 400
   },
   {
     "id": "624d0a850072030bef0c8aa2",
-    "name": "Richard Gordon",
+    "name": "Panasonic",
     "img": "../src/images/Panasonic.webp",
     "price": 2000
   },
   {
     "id": "624d0a85e0003bf420b861a8",
-    "name": "Lancaster Buckley",
+    "name": "Realm USB",
     "img": "../src/images/RealmUSB.webp",
     "price": 1100
   },
   {
     "id": "624d0a85e790111ecd8eb3f7",
-    "name": "Hamilton Blanchard",
+    "name": "SonyMDREX15",
     "img": "../src/images/SonyMDREX15.webp",
     "price": 600
   },
   {
     "id": "624d0a85948fc394d140ead1",
-    "name": "Jackie Johns",
+    "name": "SonyZX",
     "img": "../src/images/SonyZX.webp",
     "price": 3000
   },
   {
     "id": "624d0a852b47140f0ca2d0b4",
-    "name": "Ramos Finch",
-    "img": "../src/images/BeatsStudio.webp.webp",
+    "name": "BeatsStudio",
+    "img": "../src/images/BeatsStudio.webp",
     "price": 4000
   }
 ]
