@@ -13,8 +13,11 @@ const Shop = () => {
             .then(data => setProducts(data))
     }, [])
 
-    const handleAddToCart = (product) => {
-        const newCart = [...cart, product];
+    const handleAddToCart = (selectedProduct) => {
+        // let newCart = [];
+        // const exists = cart.find(product => product.id === selectedProduct.id);
+
+        const newCart = [...cart, selectedProduct];
         // console.log(newCart);
         setCart(newCart);
     }
@@ -28,7 +31,7 @@ const Shop = () => {
                     product={product}></Product>)}
             </div>
             <div className='cart-container'>
-                <Cart cart={cart}></Cart>
+                <Cart cart={cart} handleAddToCart={handleAddToCart}></Cart>
             </div>
         </div>
     );
