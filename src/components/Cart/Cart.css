@@ -1,0 +1,29 @@
+.selected-area {
+    position: sticky;
+    top: 0;
+    height: 450px;
+    border: none;
+    border-radius: 10px;
+    background-color: lightgray;
+    box-shadow: 0 8px 8px -4px lightgray;
+}
+
+.cart-title {
+    padding-left: 10px;
+}
+
+.selected-area .random-btn {
+    border: none;
+    background-color: lightgoldenrodyellow;
+    color: green;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.selected-area .remove-btn {
+    border: none;
+    background-color: lightgoldenrodyellow;
+    color: blue;
+    border-radius: 10px;
+    margin-left: 10px;
+}
