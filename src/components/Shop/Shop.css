@@ -12,7 +12,7 @@
 /* ---- media query ------*/
 /* ------- mobile devices -------*/
 
-@media screen and(max-width:576px) {
+@media screen and (max-width:576px) {
     .shop-container {
         grid-template-columns: 1fr;
     }
@@ -20,5 +20,9 @@
     .products-container {
         grid-template-columns: 1fr;
         margin-left: 20px;
+    }
+
+    .cart-container {
+        margin: 30px;
     }
 }

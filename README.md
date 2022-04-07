@@ -1,7 +1,7 @@
-## `Private Repo Link`
-Click here to create private app:
+# lucky-one-Headphones
 
-# lucky-one-Shakshor
+## `Private Repo Link`
+Click here to create private app: [https://lucky-one-heaphones.netlify.app] (https://lucky-one-heaphones.netlify.app)
 
 ### Code Splitting
 
