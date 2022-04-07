@@ -1,7 +1,7 @@
 # lucky-one-Headphones
 
 ## `Private Repo Link`
-Click here to create private app: [https://lucky-one-heaphones.netlify.app] (https://lucky-one-heaphones.netlify.app)
+Click here to create private app: [https://lucky-one-heaphones.netlify.app](https://lucky-one-heaphones.netlify.app)
 
 ### Code Splitting
 

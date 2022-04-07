@@ -1,0 +1,33 @@
+.questions-area {
+    border: 2px solid black;
+    margin: 50px 30px 10px;
+    height: 60vh;
+    border-radius: 10px;
+    text-align: justify;
+}
+
+.question-title {
+    text-align: center;
+    color: blueviolet;
+}
+
+.questions-area h3 {
+    color: blue;
+}
+
+.question-text {
+    margin: 10px;
+}
+
+/* ------- Media Queries --------- */
+/* --------- Mobile Devices ----------*/
+
+@media screen and (max-width: 576px) {
+    .questions-area {
+        height: 130vh;
+    }
+
+    .questions-area ul {
+        padding: 10px;
+    }
+}
