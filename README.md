@@ -1,7 +1,8 @@
-# Getting Started with Create React App
+# lucky-one-Shakshor
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## `Private Repo Link`
+Click here to create private app:
 ## Available Scripts
 
 In the project directory, you can run:
@@ -41,7 +42,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can ==learn more in== the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
@@ -68,4 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# lucky-one-Shakshor
+

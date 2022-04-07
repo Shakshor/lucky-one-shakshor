@@ -25,8 +25,7 @@ const Cart = ({ cart }) => {
     const removalProducts = () => {
         const selectedProducts = [cart[0], cart[1], cart[2], cart[3]];
         const removalProducts = selectedProducts.splice(3, 0);
-        // console.log(removalProducts);
-
+        console.log(removalProducts);
         setRemoval(removalProducts);
     }
 
